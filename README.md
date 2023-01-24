@@ -3,6 +3,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Usuario73&theme=merko))](https://github.com/anuraghazra/github-readme-stats)
 
-<i class="devicon-python-plain-wordmark"></i>
+<html>
+<body>
+  <a href="https://www.linkedin.com/in/gabriel-araujo-42b750263/" target=_"blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-
+</body>
+</html
