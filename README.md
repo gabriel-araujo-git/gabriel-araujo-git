@@ -6,6 +6,7 @@
 <html>
 <body>
   <a href="https://www.linkedin.com/in/gabriel-araujo-42b750263/" target=_"blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://www.instagram.com/invites/contact/?i=1t18ank8talw8&utm_content=7n9r2vu" target=_"blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 </body>
 </html
