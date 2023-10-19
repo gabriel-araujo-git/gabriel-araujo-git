@@ -5,8 +5,8 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor Back & Front-end apaixon
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Usuario73&show_icons=true&theme=merko)
 
 Aqui estão algumas estatísticas do meu GitHub. Você pode ver meu comprometimento e atividade em projetos de código aberto.
+[![Detalhes de Linguagens](https://github-readme-stats.vercel.app/api/pin/?username=Usuario73&repo=github-readme-stats&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Usuario73&theme=merko)
 
 As linguagens mais comuns em meus projetos incluem JavaScript, HTML, CSS e Python. Estas linguagens são essenciais para o desenvolvimento Front & Back-end.
 
