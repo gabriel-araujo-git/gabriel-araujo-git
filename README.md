@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou o Gabriel!</h1>
 
 <p align="center">
-  <b>Desenvolvedor Full-Stack | Apaixonado por Tecnologia</b>
+  <b>Desenvolvedor Full-Stack</b>
 </p>
 
 <br>
