@@ -1,19 +1,52 @@
-# Olá, sou o Gabriel!
+Olá, me chamo Gabriel Araujo!
 
-## Desenvolvedor Full-Stack
+- Estudando: Python, PHP, Javascript, Rust, c/c++ e Cursando Ciência da Computação.
+  
 
-Aqui estão algumas estatísticas do meu GitHub, destacando meu comprometimento com projetos de código aberto:
+<div>
+  <picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=gabriel-araujo-git&show_icons=true&theme=dracula&locale=PT-br&count_private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gabriel-araujo-git&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gabriel-araujo-git&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="150vh" align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-araujo-git&show_icons=true" />
+  </picture>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Usuario73&show_icons=true&theme=dark)
+  <picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-araujo-git&layout=compact&theme=dracula&locale=PT-br&count_private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gabriel-araujo-git&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gabriel-araujo-gito&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="150vh" align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-araujo-git&show_icons=true" />
+  </picture>
+</div>
 
-As linguagens que mais utilizo em meus projetos incluem JavaScript, HTML, CSS, C/C++, Python e Java, essenciais para o desenvolvimento Front & Back-end:
+Link do github stats <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance">clique aqui</a>
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Usuario73&theme=dark)
-
-## Redes Sociais e Contato
-
-Conecte-se comigo em outras plataformas e acompanhe meu trabalho:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-araujo-42b750263/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=1t18ank8talw8&utm_content=7n9r2vu)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Usuario73)
+<div style="display: inline_block">
+  <img align="center" height="30vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <img align="center" height="30vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img align="center" height="30vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align="center" height="30vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+</div>
+<br>
+<div>
+  <a href="mailto:ga2951057@gmail.com" target="_blank"><img align="center" height="30vh" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+  <a href="https://www.linkedin.com/in/gabriel-araujo-42b750263" target="_blank"><img align="center" height="30vh" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+</div>
