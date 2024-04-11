@@ -39,8 +39,6 @@ Olá, me chamo Gabriel Araujo!
 
 Link do github stats <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance">clique aqui</a>
 
-<div style="display: inline_block">
-  <img align="center" height="30vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   <img align="center" height="30vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" height="30vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" height="30vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
